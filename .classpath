@@ -2,8 +2,8 @@
 <classpath>
 	<classpathentry excluding="print/" kind="src" path="src"/>
 	<classpathentry kind="src" path="designPattern"/>
-	<classpathentry kind="src" path="arithmetic"/>
 	<classpathentry kind="src" path="Thread"/>
+	<classpathentry kind="src" path="arithmetic"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="lib/junit-4.10.jar"/>
 	<classpathentry kind="output" path="bin"/>
