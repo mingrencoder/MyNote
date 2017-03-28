@@ -7,7 +7,6 @@ public class CarTimeProxy implements Moveable {
 
 	private Moveable m;
 	
-	
 	public CarTimeProxy(Moveable m) {
 		super();
 		this.m = m;
@@ -23,7 +22,5 @@ public class CarTimeProxy implements Moveable {
 		
 		long end = System.currentTimeMillis();
 		System.out.println("行驶结束，时间为：" + (end - start) + "毫秒");
-		
 	}
-
 }

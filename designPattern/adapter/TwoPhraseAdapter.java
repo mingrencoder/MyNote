@@ -2,6 +2,8 @@ package adapter;
 
 /*
  * 二相转三相的适配器
+ * 
+ * 传入2相接口——>利用适配器——>通过3相供电方式供电
  */
 public class TwoPhraseAdapter implements ThreePhase {
 

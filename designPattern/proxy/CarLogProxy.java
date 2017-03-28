@@ -7,7 +7,6 @@ public class CarLogProxy implements Moveable {
 
 	private Moveable m;
 	
-	
 	public CarLogProxy(Moveable m) {
 		super();
 		this.m = m;
